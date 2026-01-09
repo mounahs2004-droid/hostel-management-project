@@ -22,13 +22,19 @@ Version Control: Git & GitHub
 (Edit database name if you used a different one)
 
 Features
+
 1.Student registration and management
+
 2.Room allocation and details
+
 3.Fee management system
+
 4.Admin login authentication
+
 5.View, update, and delete records
 
 Project Structure
+
 hostel-management-system/
 │
 ├── main.py

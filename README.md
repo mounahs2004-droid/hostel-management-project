@@ -45,29 +45,40 @@ hostel-management-system/
 └── requirements.txt
 
 How to Run the Project
+
 1.Clone the repository
+
 git clone https://github.com/your-username/hostel-management-system.git
+
 2.Navigate to the project folder
+
 cd hostel-management-system
+
 3.Install required packages
+
 pip install -r requirements.txt
+
 4.Run the application
+
 python main.py
 
 User Roles
 
-Admin: Manages students, rooms, and fees
+>Admin: Manages students, rooms, and fees
 
-Student: Views hostel and fee details
+>Student: Views hostel and fee details
 
 Future Enhancements
 
-Web-based interface
-Online fee payment system
+1.Web-based interface
+
+2.Online fee payment system
 
 Attendance management
-Notification system
+
+1.Notification system
 
 License
-This project is licensed under the MIT License.
+
+1.This project is licensed under the MIT License.
 
